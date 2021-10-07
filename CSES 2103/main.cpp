@@ -2,17 +2,18 @@
 
 using namespace std;
 
+typedef pair<int, int> ii;
+
 struct state {
-	int len, link;
-	map <char, int> nxt;	
+	int len, link, cnt = 0;
+	map<char, int> nxt;
 };
 
 int sz, last;
 state st[200001];
 
 void init() {
-	st[0].len = 0;
-	st[0].link = -1;
+	st[0].len = 0; st[0].link = -1;
 	sz = 1, last = 0;
 }
 
@@ -22,7 +23,7 @@ void add(char c) {
 	while (p != -1 && !st[p].nxt.count(c)) {
 		st[p].nxt[c] = cur;
 		p = st[p].link;
-	}			
+	}
 	if (p == -1)
 		st[cur].link = 0;
 	else {
@@ -31,17 +32,29 @@ void add(char c) {
 			st[cur].link = q;
 		else {
 			int clone = sz++;
+			st[clone].len = st[p].len + 1;
 			st[clone].link = st[q].link;
 			st[clone].nxt = st[q].nxt;
-			st[clone].len = st[p].len + 1;
 			while (p != -1 && st[p].nxt[c] == q) {
 				st[p].nxt[c] = clone;
 				p = st[p].link;
 			}
-			st[cur].link = st[q].link = clone;
-		}
-	}	
+			st[q].link = st[cur].link = clone;
+		}	
+	}
+	st[cur].cnt = 1;
 	last = cur;
+}
+
+void upd_cnt() {
+	vector<ii> v;
+	for (int i = 1; i < sz; i++)
+		v.push_back(ii(st[i].len, i));
+	sort(v.begin(), v.end(), greater<ii>());
+	for (int i = 0; i < v.size(); i++) {
+		int u = v[i].second;
+		st[st[u].link].cnt += st[u].cnt;
+	}	
 }
 
 int main(int argc, char** argv) {
@@ -53,6 +66,8 @@ int main(int argc, char** argv) {
 	string s; cin >> s;
 	for (char c : s)
 		add(c);
+	upd_cnt();
+
 	int n; cin >> n;
 	while (n--) {
 		string t; cin >> t;
@@ -62,8 +77,8 @@ int main(int argc, char** argv) {
 				ok = false;
 				break;
 			}
-			cur = st[cur].nxt[c];						
-		}
-		cout << (ok ? "YES" : "NO") << '\n';
-	}		
+			cur = st[cur].nxt[c];
+		}		
+		cout << (ok ? st[cur].cnt : 0) << '\n';
+	}
 }

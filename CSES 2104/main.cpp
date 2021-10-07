@@ -3,26 +3,26 @@
 using namespace std;
 
 struct state {
-	int len, link;
-	map <char, int> nxt;	
+	int link, len, firstPos;
+	map<char, int> nxt;
 };
 
-int sz, last;
 state st[200001];
+int sz, lst;
 
 void init() {
-	st[0].len = 0;
-	st[0].link = -1;
-	sz = 1, last = 0;
+	st[0].link = -1, st[0].len = 0;
+	sz = 1, lst = 0;
 }
 
 void add(char c) {
-	int cur = sz++, p = last;
+	int cur = sz++, p = lst;
 	st[cur].len = st[p].len + 1;
+	st[cur].firstPos = st[cur].len;
 	while (p != -1 && !st[p].nxt.count(c)) {
 		st[p].nxt[c] = cur;
 		p = st[p].link;
-	}			
+	}
 	if (p == -1)
 		st[cur].link = 0;
 	else {
@@ -31,17 +31,18 @@ void add(char c) {
 			st[cur].link = q;
 		else {
 			int clone = sz++;
+			st[clone].len = st[p].len + 1;
 			st[clone].link = st[q].link;
 			st[clone].nxt = st[q].nxt;
-			st[clone].len = st[p].len + 1;
+			st[clone].firstPos = st[q].firstPos;
 			while (p != -1 && st[p].nxt[c] == q) {
 				st[p].nxt[c] = clone;
-				p = st[p].link;
+				p = st[p].link;				
 			}
 			st[cur].link = st[q].link = clone;
-		}
-	}	
-	last = cur;
+		}	
+	}
+	lst = cur;
 }
 
 int main(int argc, char** argv) {
@@ -62,8 +63,8 @@ int main(int argc, char** argv) {
 				ok = false;
 				break;
 			}
-			cur = st[cur].nxt[c];						
+			cur = st[cur].nxt[c];
 		}
-		cout << (ok ? "YES" : "NO") << '\n';
-	}		
+		cout << (ok ? st[cur].firstPos - (int)t.size() + 1 : -1) << '\n';
+	}
 }
