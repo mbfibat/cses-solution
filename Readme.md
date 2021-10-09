@@ -1,5 +1,15 @@
-| Name                                                                     | Solution                                    |
-| ------------------------------------------------------------------------ | ------------------------------------------- |
+# CSES Solutions
+
+My own solutions to the [CSES Problem Set](https://cses.fi/problemset/), please use the code below for reference purpose only, DO NOT COPY PASTE THE CODE, as it would not benefit you or me in any way at all.
+
+My account on CSES: https://cses.fi/user/8368
+
+Some of the problems haven't been imported yet because i moved to a new computer recently. If any problem you are looking for is missing, please create some issues.
+
+### Introductory Problems
+
+| Name                                                                     | Solution                                     |
+| ------------------------------------------------------------------------ | -------------------------------------------- |
 | [Weird Algorithm](https://cses.fi/problemset/task/1068)                  | [1068.cpp](./Solutions/CSES%201068/main.cpp) |
 | [Missing Number](https://cses.fi/problemset/task/1083)                   | [1083.cpp](./Solutions/CSES%201083/main.cpp) |
 | [Repetitions](https://cses.fi/problemset/task/1069)                      | [1069.cpp](./Solutions/CSES%201069/main.cpp) |
@@ -19,6 +29,11 @@
 | [Chessboard and Queens](https://cses.fi/problemset/task/1624)            | [1624.cpp](./Solutions/CSES%201624/main.cpp) |
 | [Digit Queries](https://cses.fi/problemset/task/2431)                    | [2431.cpp](./Solutions/CSES%202431/main.cpp) |
 | [Grid Paths](https://cses.fi/problemset/task/1625)                       | [1625.cpp](./Solutions/CSES%201625/main.cpp) |
+
+### Sorting and Searching
+
+| Name                                                                     | Solution                                     |
+| ------------------------------------------------------------------------ | -------------------------------------------- |
 | [Distinct Numbers](https://cses.fi/problemset/task/1621)                 | [1621.cpp](./Solutions/CSES%201621/main.cpp) |
 | [Apartments](https://cses.fi/problemset/task/1084)                       | [1084.cpp](./Solutions/CSES%201084/main.cpp) |
 | [Ferris Wheel](https://cses.fi/problemset/task/1090)                     | [1090.cpp](./Solutions/CSES%201090/main.cpp) |
@@ -54,6 +69,11 @@
 | [Sliding Cost](https://cses.fi/problemset/task/1077)                     | [1077.cpp](./Solutions/CSES%201077/main.cpp) |
 | [Movie Festival II](https://cses.fi/problemset/task/1632)                | [1632.cpp](./Solutions/CSES%201632/main.cpp) |
 | [Maximum Subarray Sum II](https://cses.fi/problemset/task/1644)          | [1644.cpp](./Solutions/CSES%201644/main.cpp) |
+
+### Dynamic Programming
+
+| Name                                                                     | Solution                                     |
+| ------------------------------------------------------------------------ | -------------------------------------------- |
 | [Dice Combinations](https://cses.fi/problemset/task/1633)                | [1633.cpp](./Solutions/CSES%201633/main.cpp) |
 | [Minimizing Coins](https://cses.fi/problemset/task/1634)                 | [1634.cpp](./Solutions/CSES%201634/main.cpp) |
 | [Coin Combinations I](https://cses.fi/problemset/task/1635)              | [1635.cpp](./Solutions/CSES%201635/main.cpp) |
@@ -73,6 +93,11 @@
 | [Elevator Rides](https://cses.fi/problemset/task/1653)                   | [1653.cpp](./Solutions/CSES%201653/main.cpp) |
 | [Counting Tilings](https://cses.fi/problemset/task/2181)                 | [2181.cpp](./Solutions/CSES%202181/main.cpp) |
 | [Counting Numbers](https://cses.fi/problemset/task/2220)                 | [2220.cpp](./Solutions/CSES%202220/main.cpp) |
+
+### Graph Algorithms
+
+| Name                                                                     | Solution                                     |
+| ------------------------------------------------------------------------ | -------------------------------------------- |
 | [Counting Rooms](https://cses.fi/problemset/task/1192)                   | [1192.cpp](./Solutions/CSES%201192/main.cpp) |
 | [Labyrinth](https://cses.fi/problemset/task/1193)                        | [1193.cpp](./Solutions/CSES%201193/main.cpp) |
 | [Building Roads](https://cses.fi/problemset/task/1666)                   | [1666.cpp](./Solutions/CSES%201666/main.cpp) |
@@ -109,6 +134,11 @@
 | [Police Chase](https://cses.fi/problemset/task/1695)                     | [1695.cpp](./Solutions/CSES%201695/main.cpp) |
 | [School Dance](https://cses.fi/problemset/task/1696)                     | [1696.cpp](./Solutions/CSES%201696/main.cpp) |
 | [Distinct Routes](https://cses.fi/problemset/task/1711)                  | [1711.cpp](./Solutions/CSES%201711/main.cpp) |
+
+### Range Queries
+
+| Name                                                                     | Solution                                     |
+| ------------------------------------------------------------------------ | -------------------------------------------- |
 | [Static Range Sum Queries](https://cses.fi/problemset/task/1646)         | [1646.cpp](./Solutions/CSES%201646/main.cpp) |
 | [Static Range Minimum Queries](https://cses.fi/problemset/task/1647)     | [1647.cpp](./Solutions/CSES%201647/main.cpp) |
 | [Dynamic Range Sum Queries](https://cses.fi/problemset/task/1648)        | [1648.cpp](./Solutions/CSES%201648/main.cpp) |
@@ -128,6 +158,11 @@
 | [Range Updates and Sums](https://cses.fi/problemset/task/1735)           | [1735.cpp](./Solutions/CSES%201735/main.cpp) |
 | [Polynomial Queries](https://cses.fi/problemset/task/1736)               | [1736.cpp](./Solutions/CSES%201736/main.cpp) |
 | [Range Queries and Copies](https://cses.fi/problemset/task/1737)         | [1737.cpp](./Solutions/CSES%201737/main.cpp) |
+
+### Tree Algorithms
+
+| Name                                                                     | Solution                                     |
+| ------------------------------------------------------------------------ | -------------------------------------------- |
 | [Subordinates](https://cses.fi/problemset/task/1674)                     | [1674.cpp](./Solutions/CSES%201674/main.cpp) |
 | [Tree Matching](https://cses.fi/problemset/task/1130)                    | [1130.cpp](./Solutions/CSES%201130/main.cpp) |
 | [Tree Diameter](https://cses.fi/problemset/task/1131)                    | [1131.cpp](./Solutions/CSES%201131/main.cpp) |
@@ -144,6 +179,11 @@
 | [Finding a Centroid](https://cses.fi/problemset/task/2079)               | [2079.cpp](./Solutions/CSES%202079/main.cpp) |
 | [Fixed-Length Paths I](https://cses.fi/problemset/task/2080)             | [2080.cpp](./Solutions/CSES%202080/main.cpp) |
 | [Fixed-Length Paths II](https://cses.fi/problemset/task/2081)            | [2081.cpp](./Solutions/CSES%202081/main.cpp) |
+
+### Mathematics
+
+| Name                                                                     | Solution                                     |
+| ------------------------------------------------------------------------ | -------------------------------------------- |
 | [Josephus Queries](https://cses.fi/problemset/task/2164)                 | [2164.cpp](./Solutions/CSES%202164/main.cpp) |
 | [Exponentiation](https://cses.fi/problemset/task/1095)                   | [1095.cpp](./Solutions/CSES%201095/main.cpp) |
 | [Exponentiation II](https://cses.fi/problemset/task/1712)                | [1712.cpp](./Solutions/CSES%201712/main.cpp) |
@@ -175,6 +215,11 @@
 | [Stair Game](https://cses.fi/problemset/task/1099)                       | [1099.cpp](./Solutions/CSES%201099/main.cpp) |
 | [Grundy's Game](https://cses.fi/problemset/task/2207)                    | [2207.cpp](./Solutions/CSES%202207/main.cpp) |
 | [Another Game](https://cses.fi/problemset/task/2208)                     | [2208.cpp](./Solutions/CSES%202208/main.cpp) |
+
+### String Algorithms
+
+| Name                                                                     | Solution                                     |
+| ------------------------------------------------------------------------ | -------------------------------------------- |
 | [Word Combinations](https://cses.fi/problemset/task/1731)                | [1731.cpp](./Solutions/CSES%201731/main.cpp) |
 | [String Matching](https://cses.fi/problemset/task/1753)                  | [1753.cpp](./Solutions/CSES%201753/main.cpp) |
 | [Finding Borders](https://cses.fi/problemset/task/1732)                  | [1732.cpp](./Solutions/CSES%201732/main.cpp) |
@@ -192,6 +237,11 @@
 | [Substring Order I](https://cses.fi/problemset/task/2108)                | [2108.cpp](./Solutions/CSES%202108/main.cpp) |
 | [Substring Order II](https://cses.fi/problemset/task/2109)               | [2109.cpp](./Solutions/CSES%202109/main.cpp) |
 | [Substring Distribution](https://cses.fi/problemset/task/2110)           | [2110.cpp](./Solutions/CSES%202110/main.cpp) |
+
+### Geometry
+
+| Name                                                                     | Solution                                     |
+| ------------------------------------------------------------------------ | -------------------------------------------- |
 | [Point Location Test](https://cses.fi/problemset/task/2189)              | [2189.cpp](./Solutions/CSES%202189/main.cpp) |
 | [Line Segment Intersection](https://cses.fi/problemset/task/2190)        | [2190.cpp](./Solutions/CSES%202190/main.cpp) |
 | [Polygon Area](https://cses.fi/problemset/task/2191)                     | [2191.cpp](./Solutions/CSES%202191/main.cpp) |
@@ -199,6 +249,11 @@
 | [Polygon Lattice Points](https://cses.fi/problemset/task/2193)           | [2193.cpp](./Solutions/CSES%202193/main.cpp) |
 | [Minimum Euclidean Distance](https://cses.fi/problemset/task/2194)       | [2194.cpp](./Solutions/CSES%202194/main.cpp) |
 | [Convex Hull](https://cses.fi/problemset/task/2195)                      | [2195.cpp](./Solutions/CSES%202195/main.cpp) |
+
+### Advanced Techniques
+
+| Name                                                                     | Solution                                     |
+| ------------------------------------------------------------------------ | -------------------------------------------- |
 | [Meet in the Middle](https://cses.fi/problemset/task/1628)               | [1628.cpp](./Solutions/CSES%201628/main.cpp) |
 | [Hamming Distance](https://cses.fi/problemset/task/2136)                 | [2136.cpp](./Solutions/CSES%202136/main.cpp) |
 | [Beautiful Subgrids](https://cses.fi/problemset/task/2137)               | [2137.cpp](./Solutions/CSES%202137/main.cpp) |
@@ -223,10 +278,15 @@
 | [Parcel Delivery](https://cses.fi/problemset/task/2121)                  | [2121.cpp](./Solutions/CSES%202121/main.cpp) |
 | [Task Assignment](https://cses.fi/problemset/task/2129)                  | [2129.cpp](./Solutions/CSES%202129/main.cpp) |
 | [Distinct Routes II](https://cses.fi/problemset/task/2130)               | [2130.cpp](./Solutions/CSES%202130/main.cpp) |
+
+### Additional Problems
+
+| Name                                                                     | Solution                                     |
+| ------------------------------------------------------------------------ | -------------------------------------------- |
 | [Shortest Subsequence](https://cses.fi/problemset/task/1087)             | [1087.cpp](./Solutions/CSES%201087/main.cpp) |
 | [Counting Bits](https://cses.fi/problemset/task/1146)                    | [1146.cpp](./Solutions/CSES%201146/main.cpp) |
 | [Swap Game](https://cses.fi/problemset/task/1670)                        | [1670.cpp](./Solutions/CSES%201670/main.cpp) |
-| [Prüfer Code](https://cses.fi/problemset/task/1134)                      | [1134.cpp](./Solutions/CSES%201134/main.cpp) |
+| [Prï¿½fer Code](https://cses.fi/problemset/task/1134)                      | [1134.cpp](./Solutions/CSES%201134/main.cpp) |
 | [Acyclic Graph Edges](https://cses.fi/problemset/task/1756)              | [1756.cpp](./Solutions/CSES%201756/main.cpp) |
 | [Strongly Connected Edges](https://cses.fi/problemset/task/2177)         | [2177.cpp](./Solutions/CSES%202177/main.cpp) |
 | [Even Outdegree Edges](https://cses.fi/problemset/task/2179)             | [2179.cpp](./Solutions/CSES%202179/main.cpp) |
