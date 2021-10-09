@@ -351,7 +351,7 @@ Some of the problems haven't been imported yet because i moved to a new computer
 | [Coding Company](https://cses.fi/problemset/task/1665)                   | [1665.cpp](./Solutions/CSES%201665/main.cpp) |
 | [Flight Route Requests](https://cses.fi/problemset/task/1699)            |                                              |
 | [Two Stacks Sorting](https://cses.fi/problemset/task/2402)               |                                              |
-| [Tree Isomorphism II](https://cses.fi/problemset/task/1701)              | [1701.cpp](./Solutions/CSES%201701/main.cpp) |
+| [Tree Isomorphism II](https://cses.fi/problemset/task/1701)              |                                              |
 | [Forbidden Cities](https://cses.fi/problemset/task/1705)                 |                                              |
 | [Area of Rectangles](https://cses.fi/problemset/task/1741)               | [1741.cpp](./Solutions/CSES%201741/main.cpp) |
 | [Grid Completion](https://cses.fi/problemset/task/2429)                  |                                              |
