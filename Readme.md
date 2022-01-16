@@ -3,7 +3,7 @@
 My own solutions to the [CSES Problem Set](https://cses.fi/problemset/), please use the code below for reference purpose only. DO NOT COPY PASTE THE CODE, as it would not benefit you or me in any way at all.
 
 My account on CSES: https://cses.fi/user/8368
-Current progress: 283/300 problems
+Current progress: 288/300 problems
 
 Some of the problems haven't been imported yet because i moved to a new computer recently. If any problem you are looking for is missing, please create some issues.
 Some of the problems are wrongly linked because i change the name from main.cpp to ID.cpp, sol.cpp, ... So if that happens, please check the folder of the problem for more information.
