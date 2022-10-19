@@ -277,9 +277,9 @@ Some of the problems are wrongly linked because i change the name from main.cpp 
 | [Signal Processing](https://cses.fi/problemset/task/2113)                | [2113.cpp](./Solutions/CSES%202113/main.cpp) |
 | [New Roads Queries](https://cses.fi/problemset/task/2101)                | [2101.cpp](./Solutions/CSES%202101/main.cpp) |
 | [Dynamic Connectivity](https://cses.fi/problemset/task/2133)             | [2133.cpp](./Solutions/CSES%202133/main.cpp) |
-| [Parcel Delivery](https://cses.fi/problemset/task/2121)                  |                                              |
-| [Task Assignment](https://cses.fi/problemset/task/2129)                  |                                              |
-| [Distinct Routes II](https://cses.fi/problemset/task/2130)               |                                              |
+| [Parcel Delivery](https://cses.fi/problemset/task/2121)                  | [2121.cpp](./Solutions/CSES%202121/main.cpp) |
+| [Task Assignment](https://cses.fi/problemset/task/2129)                  | [2129.cpp](./Solutions/CSES%202129/main.cpp) |
+| [Distinct Routes II](https://cses.fi/problemset/task/2130)               | [2130.cpp](./Solutions/CSES%202130/main.cpp) |
 
 ### Additional Problems
 
@@ -288,7 +288,7 @@ Some of the problems are wrongly linked because i change the name from main.cpp 
 | [Shortest Subsequence](https://cses.fi/problemset/task/1087)             | [1087.cpp](./Solutions/CSES%201087/main.cpp) |
 | [Counting Bits](https://cses.fi/problemset/task/1146)                    | [1146.cpp](./Solutions/CSES%201146/main.cpp) |
 | [Swap Game](https://cses.fi/problemset/task/1670)                        | [1670.cpp](./Solutions/CSES%201670/main.cpp) |
-| [Pr�fer Code](https://cses.fi/problemset/task/1134)                      | [1134.cpp](./Solutions/CSES%201134/main.cpp) |
+| [Prüfer Code](https://cses.fi/problemset/task/1134)                      | [1134.cpp](./Solutions/CSES%201134/main.cpp) |
 | [Acyclic Graph Edges](https://cses.fi/problemset/task/1756)              | [1756.cpp](./Solutions/CSES%201756/main.cpp) |
 | [Strongly Connected Edges](https://cses.fi/problemset/task/2177)         | [2177.cpp](./Solutions/CSES%202177/main.cpp) |
 | [Even Outdegree Edges](https://cses.fi/problemset/task/2179)             | [2179.cpp](./Solutions/CSES%202179/main.cpp) |
@@ -314,7 +314,7 @@ Some of the problems are wrongly linked because i change the name from main.cpp 
 | [Xor Pyramid](https://cses.fi/problemset/task/2419)                      | [2419.cpp](./Solutions/CSES%202419/main.cpp) |
 | [Writing Numbers](https://cses.fi/problemset/task/1086)                  | [1086.cpp](./Solutions/CSES%201086/main.cpp) |
 | [String Transform](https://cses.fi/problemset/task/1113)                 | [1113.cpp](./Solutions/CSES%201113/main.cpp) |
-| [Letter Pair Move Game](https://cses.fi/problemset/task/2427)            |                                              |
+| [Letter Pair Move Game](https://cses.fi/problemset/task/2427)            | [2427.cpp](./Solutions/CSES%202427/main.cpp) |
 | [Maximum Building I](https://cses.fi/problemset/task/1147)               | [1147.cpp](./Solutions/CSES%201147/main.cpp) |
 | [Sorting Methods](https://cses.fi/problemset/task/1162)                  | [1162.cpp](./Solutions/CSES%201162/main.cpp) |
 | [Cyclic Array](https://cses.fi/problemset/task/1191)                     | [1191.cpp](./Solutions/CSES%201191/main.cpp) |
@@ -323,42 +323,42 @@ Some of the problems are wrongly linked because i change the name from main.cpp 
 | [Food Division](https://cses.fi/problemset/task/1189)                    | [1189.cpp](./Solutions/CSES%201189/main.cpp) |
 | [Bit Problem](https://cses.fi/problemset/task/1654)                      | [1654.cpp](./Solutions/CSES%201654/main.cpp) |
 | [Swap Round Sorting](https://cses.fi/problemset/task/1698)               | [1698.cpp](./Solutions/CSES%201698/main.cpp) |
-| [Binary Subsequences](https://cses.fi/problemset/task/2430)              |                                              |
-| [Tree Isomorphism I](https://cses.fi/problemset/task/1700)               |                                              |
+| [Binary Subsequences](https://cses.fi/problemset/task/2430)              | [2430.cpp](./Solutions/CSES%202430/main.cpp) |
+| [Tree Isomorphism I](https://cses.fi/problemset/task/1700)               | [1700.cpp](./Solutions/CSES%201700/main.cpp) |
 | [Counting Sequences](https://cses.fi/problemset/task/2228)               | [2228.cpp](./Solutions/CSES%202228/main.cpp) |
-| [Critical Cities](https://cses.fi/problemset/task/1703)                  |                                              |
+| [Critical Cities](https://cses.fi/problemset/task/1703)                  | [1703.cpp](./Solutions/CSES%201703/main.cpp) |
 | [School Excursion](https://cses.fi/problemset/task/1706)                 | [1706.cpp](./Solutions/CSES%201706/main.cpp) |
 | [Coin Grid](https://cses.fi/problemset/task/1709)                        | [1709.cpp](./Solutions/CSES%201709/main.cpp) |
 | [Robot Path](https://cses.fi/problemset/task/1742)                       |                                              |
-| [Programmers and Artists](https://cses.fi/problemset/task/2426)          |                                              |
+| [Programmers and Artists](https://cses.fi/problemset/task/2426)          | [2426.cpp](./Solutions/CSES%202426/main.cpp) |
 | [Course Schedule II](https://cses.fi/problemset/task/1757)               | [1757.cpp](./Solutions/CSES%201757/main.cpp) |
 | [Removing Digits II](https://cses.fi/problemset/task/2174)               |                                              |
-| [Coin Arrangement](https://cses.fi/problemset/task/2180)                 |                                              |
-| [Counting Bishops](https://cses.fi/problemset/task/2176)                 |                                              |
+| [Coin Arrangement](https://cses.fi/problemset/task/2180)                 | [2180.cpp](./Solutions/CSES%202180/main.cpp) |
+| [Counting Bishops](https://cses.fi/problemset/task/2176)                 | [2176.cpp](./Solutions/CSES%202176/main.cpp) |
 | [Grid Puzzle I](https://cses.fi/problemset/task/2432)                    | [2432.cpp](./Solutions/CSES%202432/main.cpp) |
-| [Grid Puzzle II](https://cses.fi/problemset/task/2131)                   |                                              |
+| [Grid Puzzle II](https://cses.fi/problemset/task/2131)                   | [2131.cpp](./Solutions/CSES%202131/main.cpp) |
 | [Empty String](https://cses.fi/problemset/task/1080)                     | [1080.cpp](./Solutions/CSES%201080/main.cpp) |
 | [Grid Paths](https://cses.fi/problemset/task/1078)                       | [1078.cpp](./Solutions/CSES%201078/main.cpp) |
-| [Bit Substrings](https://cses.fi/problemset/task/2115)                   |                                              |
-| [Reversal Sorting](https://cses.fi/problemset/task/2075)                 |                                              |
+| [Bit Substrings](https://cses.fi/problemset/task/2115)                   | [2115.cpp](./Solutions/CSES%202115/main.cpp) |
+| [Reversal Sorting](https://cses.fi/problemset/task/2075)                 | [2075.cpp](./Solutions/CSES%202075/main.cpp) |
 | [Counting Reorders](https://cses.fi/problemset/task/2421)                |                                              |
 | [Book Shop II](https://cses.fi/problemset/task/1159)                     | [1159.cpp](./Solutions/CSES%201159/main.cpp) |
 | [Network Breakdown](https://cses.fi/problemset/task/1677)                | [1677.cpp](./Solutions/CSES%201677/main.cpp) |
 | [Visiting Cities](https://cses.fi/problemset/task/1203)                  | [1203.cpp](./Solutions/CSES%201203/main.cpp) |
-| [Missing Coin Sum Queries](https://cses.fi/problemset/task/2184)         |                                              |
+| [Missing Coin Sum Queries](https://cses.fi/problemset/task/2184)         | [2184.cpp](./Solutions/CSES%202184/main.cpp) |
 | [Number Grid](https://cses.fi/problemset/task/1157)                      | [1157.cpp](./Solutions/CSES%201157/main.cpp) |
-| [Maximum Building II](https://cses.fi/problemset/task/1148)              |                                              |
-| [Filling Trominos](https://cses.fi/problemset/task/2423)                 |                                              |
+| [Maximum Building II](https://cses.fi/problemset/task/1148)              | [1148.cpp](./Solutions/CSES%201148/main.cpp) |
+| [Filling Trominos](https://cses.fi/problemset/task/2423)                 | [2423.cpp](./Solutions/CSES%202423/main.cpp) |
 | [Stick Divisions](https://cses.fi/problemset/task/1161)                  | [1161.cpp](./Solutions/CSES%201161/main.cpp) |
 | [Coding Company](https://cses.fi/problemset/task/1665)                   | [1665.cpp](./Solutions/CSES%201665/main.cpp) |
-| [Flight Route Requests](https://cses.fi/problemset/task/1699)            |                                              |
+| [Flight Route Requests](https://cses.fi/problemset/task/1699)            | [1699.cpp](./Solutions/CSES%201699/main.cpp) |
 | [Two Stacks Sorting](https://cses.fi/problemset/task/2402)               |                                              |
-| [Tree Isomorphism II](https://cses.fi/problemset/task/1701)              |                                              |
-| [Forbidden Cities](https://cses.fi/problemset/task/1705)                 |                                              |
+| [Tree Isomorphism II](https://cses.fi/problemset/task/1701)              | [1701.cpp](./Solutions/CSES%201701/main.cpp) |
+| [Forbidden Cities](https://cses.fi/problemset/task/1705)                 | [1705.cpp](./Solutions/CSES%201705/main.cpp) |
 | [Area of Rectangles](https://cses.fi/problemset/task/1741)               | [1741.cpp](./Solutions/CSES%201741/main.cpp) |
 | [Grid Completion](https://cses.fi/problemset/task/2429)                  |                                              |
-| [Creating Offices](https://cses.fi/problemset/task/1752)                 |                                              |
+| [Creating Offices](https://cses.fi/problemset/task/1752)                 | [1752.cpp](./Solutions/CSES%201752/main.cpp) |
 | [Permutations II](https://cses.fi/problemset/task/1075)                  | [1075.cpp](./Solutions/CSES%201075/main.cpp) |
-| [Functional Graph Distribution](https://cses.fi/problemset/task/2415)    |                                              |
+| [Functional Graph Distribution](https://cses.fi/problemset/task/2415)    | [2415.cpp](./Solutions/CSES%202415/main.cpp) |
 | [New Flight Routes](https://cses.fi/problemset/task/1685)                |                                              |
 | [Grid Path Construction](https://cses.fi/problemset/task/2418)           |                                              |
