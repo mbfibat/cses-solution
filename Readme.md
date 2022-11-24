@@ -3,7 +3,7 @@
 My own solutions to the [CSES Problem Set](https://cses.fi/problemset/), please use the code below for reference purpose only. DO NOT COPY PASTE THE CODE, as it would not benefit you or me in any way at all.
 
 My account on CSES: https://cses.fi/user/8368
-Current progress: 293/300 problems
+Current progress: 294/300 problems
 
 Some of the problems haven't been imported yet because i moved to a new computer recently. If any problem you are looking for is missing, please create some issues.
 Some of the problems are wrongly linked because i change the name from main.cpp to ID.cpp, sol.cpp, ... So if that happens, please check the folder of the problem for more information.
@@ -329,7 +329,7 @@ Some of the problems are wrongly linked because i change the name from main.cpp 
 | [Critical Cities](https://cses.fi/problemset/task/1703)                  | [1703.cpp](./Solutions/CSES%201703/main.cpp) |
 | [School Excursion](https://cses.fi/problemset/task/1706)                 | [1706.cpp](./Solutions/CSES%201706/main.cpp) |
 | [Coin Grid](https://cses.fi/problemset/task/1709)                        | [1709.cpp](./Solutions/CSES%201709/main.cpp) |
-| [Robot Path](https://cses.fi/problemset/task/1742)                       |                                              |
+| [Robot Path](https://cses.fi/problemset/task/1742)                       | [1742.cpp](./Solutions/CSES%201709/main.cpp) |
 | [Programmers and Artists](https://cses.fi/problemset/task/2426)          | [2426.cpp](./Solutions/CSES%202426/main.cpp) |
 | [Course Schedule II](https://cses.fi/problemset/task/1757)               | [1757.cpp](./Solutions/CSES%201757/main.cpp) |
 | [Removing Digits II](https://cses.fi/problemset/task/2174)               |                                              |
